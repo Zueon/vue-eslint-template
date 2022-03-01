@@ -10,10 +10,10 @@
 <script>
 export default {
   props: {
-    msg: { type: String }
+    msg: { type: String },
   },
-  emits: ['click']
-}
+  emits: ['click'],
+};
 </script>
 
 <style scoped lang="scss">
